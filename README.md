@@ -1,2 +1,2 @@
 # Quiz
-Web app for entertainment and education
+Web app for entertainment and education.
