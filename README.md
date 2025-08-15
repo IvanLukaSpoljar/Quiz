@@ -6,3 +6,9 @@ Web app for entertainment and education.
 
 
 <img width="2560" height="1600" alt="quiz" src="https://github.com/user-attachments/assets/bb92c3c3-9d32-49cc-a72a-f22f9635ae25" />
+
+
+
+<img width="2560" height="1600" alt="quiz" src="https://github.com/user-attachments/assets/e697ea48-bec6-42a1-9d99-36d24c54ff54" />
+
+
