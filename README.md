@@ -4,4 +4,5 @@
 Web app for entertainment and education.
 
 
-![Uploading quiz.png…]()
+
+<img width="2560" height="1600" alt="quiz" src="https://github.com/user-attachments/assets/bb92c3c3-9d32-49cc-a72a-f22f9635ae25" />
